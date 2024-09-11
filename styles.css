@@ -120,3 +120,11 @@ body {
 .avatar-img {
     max-height: 32px;
 }
+
+.author-name {
+    font-size: var(--text-preset-3b-font-size);
+    font-weight: var(--text-preset-3b-font-weight);
+    line-height: var(--text-preset-3b-line-height);
+    letter-spacing: var(--text-preset-3b-letter-spacing);
+    color: var(--gray-950);
+}
